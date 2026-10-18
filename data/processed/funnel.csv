@@ -1,0 +1,6 @@
+event,users,step_conversion,step_dropoff
+visit,50000,100.0,0.0
+signup,39966,79.93,20.07
+upload_clothing,27988,70.03,29.97
+generate_outfit,21008,75.06,24.94
+save_outfit,12660,60.26,39.74
